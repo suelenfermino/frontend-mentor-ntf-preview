@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [ntf-preview](https://suelenfermino.github.io/frontend-mentor-ntf-preview/)
+- Solution URL: [NFT-preview](https://suelenfermino.github.io/frontend-mentor-ntf-preview/)
 
 
 ### Built with
